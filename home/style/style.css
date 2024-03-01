@@ -1,0 +1,31 @@
+*{
+    font-family:vazirmatn;
+    direction:rtl;
+}
+
+header{
+    padding-bottom: 50px;
+    padding-right: 40px;
+    padding-top: 20px;
+    background-color:white;      
+}
+
+nav{
+    padding-bottom: 50px;
+    padding-right: 40px;
+    background-color:white;
+}
+
+.intro{
+
+    background-color:white;
+    color:black;
+    margin:20px;
+}
+.menu{
+    margin-left:10px;
+    }
+    
+body{
+    background-color:lightgrey;
+}
